@@ -15,13 +15,13 @@ function App() {
           <img src={logoElectron} className='logo electron' alt='Electron + Vite logo' />
         </a>
       </div>
-      <h1>Electron + Vite + React</h1>
+      <h1>Electron Desktop Application</h1>
       <div className='card'>
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
+          test <code>v0.4.0</code>, now when i click update btn, it should tell me that this is the latest version
         </p>
       </div>
       <p className='read-the-docs'>
