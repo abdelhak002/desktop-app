@@ -21,7 +21,7 @@ function App() {
           count is {count}
         </button>
         <p>
-          test <code>v0.4.0</code>, now when i click update btn, it should tell me that this is the latest version
+          test <code>v0.1.1</code>, now when i click update btn, it should tell me that this is the latest version
         </p>
       </div>
       <p className='read-the-docs'>
